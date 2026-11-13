@@ -1,25 +1,26 @@
 # Hi there, I'm Akash 👋
 
 <p align="left">
-  <b>DevOps & Cloud Infrastructure Engineer</b> with <b>5+ years of experience</b> architecting resilient cloud systems, automating end-to-end CI/CD pipelines, and orchestrating enterprise-grade Kubernetes environments. Passionate about Infrastructure as Code (IaC), GitOps, zero-downtime releases, and proactive observability.
+  <b>DevOps & Azure Cloud Infrastructure Engineer</b> with <b>5+ years of experience</b>, currently driving cloud transformation and infrastructure automation at <b>Accenture</b> (since Feb 2022). Specialized in enterprise <b>Microsoft Azure</b> architectures, Azure Kubernetes Service (AKS), Infrastructure as Code with Terraform, and robust Azure DevOps CI/CD pipelines.
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Company-Accenture-A100FF?style=flat-square&logo=accenture&logoColor=white" alt="Accenture" />
+  <img src="https://img.shields.io/badge/Since-Feb%202022-007ACC?style=flat-square" alt="Joined Feb 2022" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Experience" />
   <a href="mailto:akash21996@gmail.com"><img src="https://img.shields.io/badge/Email-akash21996%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20SRE%20%7C%20Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Focus" />
 </p>
 
 ---
 
 ### 💼 Technical Competencies & Specializations
 
-- ☁️ **Cloud Architecture:** Designing highly available, fault-tolerant architectures across AWS, Azure, and Hybrid Cloud environments.
-- 🚢 **Container Orchestration & GitOps:** Production Kubernetes (EKS/GKE/k8s), Docker microservices, Helm package management, and GitOps deployments with ArgoCD.
-- 🏗️ **Infrastructure as Code (IaC):** Modular, reusable Terraform and Terragrunt configurations with automated state management and security auditing.
-- 🔄 **CI/CD & Release Automation:** Building fast, zero-downtime deployment pipelines using GitHub Actions, GitLab CI, and Jenkins with blue/green and canary strategies.
-- 📊 **Observability & Reliability:** Comprehensive metrics, logging, and tracing using Prometheus, Grafana, Datadog, and the ELK Stack with proactive alert triggers.
-- 🛡️ **DevSecOps:** Shift-left security automation, vulnerability scanning (Trivy, SonarQube), secret management (HashiCorp Vault, AWS Secrets Manager), and IAM least privilege.
+- ☁️ **Azure Cloud Architecture:** Designing enterprise-scale Azure Landing Zones (Hub & Spoke VNets), Azure App Services, Azure SQL, and scalable storage solutions.
+- 🚢 **Kubernetes on Azure (AKS):** Provisioning and scaling Azure Kubernetes Service (AKS), Application Gateway Ingress Controller (AGIC), Helm package management, and microservices rollouts.
+- 🏗️ **Infrastructure as Code (IaC):** Modular, reusable Terraform configurations, Azure Bicep, and ARM templates with remote state stored in Azure Blob Storage.
+- 🔄 **Azure DevOps & CI/CD:** Building automated, multi-stage YAML pipelines in Azure DevOps (Pipelines, Artifacts, Boards) and GitHub Actions with automated approval gates.
+- 🛡️ **DevSecOps & Identity:** Enterprise security with Azure Key Vault, Managed Identities, Azure AD/Entra ID RBAC, Azure Policy compliance, and container vulnerability scanning.
+- 📊 **Monitoring & Observability:** Proactive monitoring with Azure Monitor, Application Insights, Log Analytics (KQL queries), and Grafana dashboards.
 
 ---
 
@@ -27,76 +28,78 @@
 
 <table>
   <tr>
-    <td width="26%"><b>Cloud Platforms</b></td>
+    <td width="26%"><b>Primary Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-      <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+      <img src="https://img.shields.io/badge/Azure%20Landing%20Zones-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="Landing Zones" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CI/CD & DevOps Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+      <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
   <tr>
     <td><b>Containers & Orchestration</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Azure%20AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Azure AKS" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+      <img src="https://img.shields.io/badge/Azure%20ACR-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ACR" />
     </td>
   </tr>
   <tr>
     <td><b>IaC & Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Azure%20Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Bicep" />
+      <img src="https://img.shields.io/badge/ARM%20Templates-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ARM" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-      <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="CloudFormation" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>CI/CD Pipelines</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
     </td>
   </tr>
   <tr>
     <td><b>Monitoring & Logging</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Monitor" />
+      <img src="https://img.shields.io/badge/Application%20Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="App Insights" />
+      <img src="https://img.shields.io/badge/Log%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Log Analytics" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
     </td>
   </tr>
   <tr>
-    <td><b>Scripting & Languages</b></td>
+    <td><b>Security & Governance</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevSecOps & Networking</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="Vault" />
+      <img src="https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Key Vault" />
+      <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID" />
+      <img src="https://img.shields.io/badge/Azure%20Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Policy" />
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
       <img src="https://img.shields.io/badge/Trivy-005571?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Scripting & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Featured DevOps Infrastructure Projects
+### 🌟 Enterprise Azure Architecture & Projects
 
-| Project | Highlights & Capabilities | Key Tech Stack |
+| Solution Area | Architecture Highlights | Core Technologies |
 | :--- | :--- | :--- |
-| **Production AWS EKS Architecture** | Modular multi-tier VPC, EKS cluster with managed node groups, ALB ingress controller, and IRSA. | `Terraform` `AWS EKS` `Helm` |
-| **GitOps Microservices Pipeline** | Continuous delivery workflow with automated PR preview environments and canary deployments. | `Kubernetes` `ArgoCD` `GitHub Actions` |
-| **Enterprise DevSecOps Workflow** | Automated container image scanning, secret detection, SAST vulnerability gates, and SLSA provenance. | `Trivy` `Vault` `SonarQube` `Docker` |
+| **Enterprise Azure Landing Zone** | Hub-and-Spoke network topology, firewall rules, private endpoints, and automated governance. | `Terraform` `Azure VNet` `Azure Policy` |
+| **Production AKS Infrastructure** | Multi-node pool Azure Kubernetes cluster, AGIC ingress, Azure CNI networking, and Key Vault integration. | `Azure AKS` `Helm` `Key Vault` |
+| **Azure DevOps Multi-Stage CI/CD** | End-to-end YAML pipeline with SonarQube quality gates, Trivy container scanning, and canary rollouts. | `Azure Pipelines` `ACR` `Docker` |
 
 ---
 
@@ -112,8 +115,8 @@
 ### 🤝 Let's Connect
 
 - 📧 **Email:** [akash21996@gmail.com](mailto:akash21996@gmail.com)
-- 💼 **LinkedIn:** [Add your LinkedIn link here](https://linkedin.com)
-- 🌐 Open to cloud infrastructure consultations, DevOps architecture discussions, and SRE collaborations.
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
+- 🌐 Open to discussions on Azure cloud architecture, AKS scaling, IaC best practices, and enterprise DevOps workflows.
 
 <p align="center">
   <sub>Automated with precision & care. Built for 99.99% uptime. 🚀</sub>

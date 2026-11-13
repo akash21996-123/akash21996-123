@@ -1,7 +1,7 @@
 # Hi there, I'm Akash 👋
 
 <p align="left">
-  <b>DevOps & Azure Cloud Infrastructure Engineer</b> with <b>5+ years of experience</b>, currently driving cloud transformation and infrastructure automation at <b>Accenture</b> (since Feb 2022). Specialized in enterprise <b>Microsoft Azure</b> architectures, Azure Kubernetes Service (AKS), Infrastructure as Code with Terraform, and robust Azure DevOps CI/CD pipelines.
+  <b>DevOps & Azure Cloud Infrastructure Engineer</b> with <b>4+ years of experience</b>, currently driving cloud transformation and infrastructure automation at <b>Accenture</b> (since Feb 2022). Specialized in enterprise <b>Microsoft Azure</b> architectures, Azure Kubernetes Service (AKS), Infrastructure as Code with Terraform, and robust Azure DevOps CI/CD pipelines.
 </p>
 
 <p align="left">
@@ -114,7 +114,7 @@
 
 ### 🤝 Let's Connect
 
-- 📧 **Email:** [akash21996@gmail.com](mailto:akash21996@gmail.com)
+- 📧 **Email:** [akash21998.123@gmail.com](mailto:akash21998.123@gmail.com)
 - 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
 - 🌐 Open to discussions on Azure cloud architecture, AKS scaling, IaC best practices, and enterprise DevOps workflows.
 

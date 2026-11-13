@@ -1,14 +1,14 @@
 # Hi there, I'm Akash 👋
 
 <p align="left">
-  <b>DevOps & Azure Cloud Infrastructure Engineer</b> with <b>4+ years of experience</b>, currently driving cloud transformation and infrastructure automation at <b>Accenture</b> (since Feb 2022). Specialized in enterprise <b>Microsoft Azure</b> architectures, Azure Kubernetes Service (AKS), Infrastructure as Code with Terraform, and robust Azure DevOps CI/CD pipelines.
+  <b>DevOps & Azure Cloud Infrastructure Engineer</b> with <b>4+ years of experience</b>, currently driving cloud modernization and infrastructure automation at <b>Accenture</b> (since Feb 2022). Specialized in enterprise <b>Microsoft Azure</b> architectures, Azure Kubernetes Service (AKS), Infrastructure as Code with Terraform, and robust Azure DevOps CI/CD pipelines.
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Company-Accenture-A100FF?style=flat-square&logo=accenture&logoColor=white" alt="Accenture" />
   <img src="https://img.shields.io/badge/Since-Feb%202022-007ACC?style=flat-square" alt="Joined Feb 2022" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Experience" />
-  <a href="mailto:akash21996@gmail.com"><img src="https://img.shields.io/badge/Email-akash21996%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Experience" />
+  <a href="mailto:akash21998.123@gmail.com"><img src="https://img.shields.io/badge/Email-akash21998.123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 
 ---
 
-### 🌟 Enterprise Azure Architecture & Projects
+### 🌟 Enterprise Azure Architecture & Solutions
 
 | Solution Area | Architecture Highlights | Core Technologies |
 | :--- | :--- | :--- |
